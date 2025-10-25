@@ -90,10 +90,5 @@ We welcome contributions to improve this project! Please follow these guidelines
 4.  **Push your changes to your forked repository:** `git push origin feature/your-feature-name`
 5.  **Submit a pull request to the main branch of this repository.**
 
-## License Information
 
-No license is specified for this project. All rights are reserved by the owner, vishaaljr.
 
-## Acknowledgments
-
-*   The original dataset used for training the model is publicly available and sourced from: (Original data source - if applicable, add source URL).
